@@ -11,6 +11,8 @@ I'm bachelor student of Computer Engineering @ University of Guilan
   - Reinforcement learning
   - Robotics
 
+My full resume is available in my personal webpage [amirezzati.github.io](https://amirezzati.github.io/)
+
 <!--
 **amirezzati/amirezzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
