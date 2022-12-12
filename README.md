@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+**This is Amir Ezzati!**    
+    
+I'm bachelor Computer Engineering student @ University of Guilan    
+
+- I’m currently researching in the field of Artificial Intelligence.
+- Intrested in:
+  - Machine learning
+  - Deep learning
+  - Reinforcement learning
+  - Robotics
+
 <!--
 **amirezzati/amirezzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
