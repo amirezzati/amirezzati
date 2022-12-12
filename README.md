@@ -2,7 +2,7 @@
 
 **This is Amir Ezzati!**    
     
-I'm bachelor Computer Engineering student @ University of Guilan    
+I'm bachelor student of Computer Engineering @ University of Guilan    
 
 - I’m currently researching in the field of Artificial Intelligence.
 - Intrested in:
