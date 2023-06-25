@@ -1,11 +1,10 @@
 ### Hi there 👋
-
-**This is Amir Ezzati!**    
-    
+![Vanilla-1 4s-283px](https://github.com/amirezzati/amirezzati/assets/62298323/f4cc5c50-fc21-4a68-98ec-4bb5d2c4776e)       
 I'm bachelor student of Computer Engineering @ University of Guilan    
 
 - I’m currently researching in the field of Artificial Intelligence.
 - Intrested in:
+  - Bioinformatics 
   - Machine learning
   - Deep learning
   - Reinforcement learning
