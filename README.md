@@ -4,9 +4,9 @@ I'm master student of Bioinformatics @ Sharif University of Technology
 
 - I’m currently researching in the field of Artificial Intelligence.
 - Intrested in:
-  - Bioinformatics 
   - Machine learning
   - Deep learning
+  - Bioinformatics 
   - Reinforcement learning
   - Robotics
 
