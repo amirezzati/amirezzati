@@ -10,7 +10,11 @@ I'm master student of Computer Enginnering in Artificial Intelligence & Bioinfor
   - Reinforcement learning
   - Robotics
 
-My full resume is available in my personal webpage [amirezzati.github.io](https://amirezzati.github.io/)
+My full resume is available in my personal webpage [amirezzati.github.io](https://amirezzati.github.io/)       
+     
+Contact me through the following emails:
+  - am.ezzati@ce.sharif.edu
+  - iamirezzati@gmail.com
 
 <!--
 **amirezzati/amirezzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
