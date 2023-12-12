@@ -1,8 +1,9 @@
 ### Hi there 👋
 ![Vanilla-1 4s-283px](https://github.com/amirezzati/amirezzati/assets/62298323/f4cc5c50-fc21-4a68-98ec-4bb5d2c4776e)       
-I'm master student of Computer Enginnering in Artificial Intelligence & Bioinformatics @ Sharif University of Technology    
+I'm master student of Computer Enginnering in Artificial Intelligence & Bioinformatics and Research Assistant @ Sharif University of Technology    
 
 - I’m currently researching in the field of Artificial Intelligence.
+- Research assistant @ [RIML Lab](https://rohban-lab.github.io)
 - Intrested in:
   - Machine learning
   - Deep learning
