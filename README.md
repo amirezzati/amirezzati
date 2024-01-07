@@ -7,6 +7,7 @@ I'm master student of Computer Enginnering in Artificial Intelligence & Bioinfor
 - Intrested in:
   - Machine learning
   - Deep learning
+  - Biomedical image analysis
   - Bioinformatics 
   - Reinforcement learning
   - Robotics
