@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Vanilla-1 4s-283px](https://github.com/amirezzati/amirezzati/assets/62298323/f4cc5c50-fc21-4a68-98ec-4bb5d2c4776e)       
+
+<img src='https://github.com/user-attachments/assets/fe6ff334-d9c0-4fbc-af1b-de8e50c822a8' style='height: 50px;'/>
+<br/>
+<br/>
+
 I'm master student of Computer Enginnering with a focus on Artificial Intelligence and Bioinformatics, and Research Assistant @ Sharif University of Technology.       
 
 - I’m currently researching in the field of Artificial Intelligence.
