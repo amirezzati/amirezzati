@@ -24,6 +24,8 @@ Contact me through the following emails:
   - am.ezzati@ce.sharif.edu
   - iamirezzati@gmail.com
 
+<img src="https://komarev.com/ghpvc/?username=amirezzati&color=blue" alt="amirezzati"/>
+
 <!--
 **amirezzati/amirezzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
