@@ -13,8 +13,8 @@ I'm master student of Computer Enginnering with a focus on Artificial Intelligen
   - Deep learning
   - Biomedical image analysis
   - OOD generalization
-  - Bioinformatics
   - Machine learning Safety 
+  - Bioinformatics
   - Reinforcement learning
   - Robotics
 
