@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src='https://github.com/user-attachments/assets/fe6ff334-d9c0-4fbc-af1b-de8e50c822a8' style='height: 50px;'/>
-<br/>
-<br/>
+<h3>This is Amir Ezzati!</h1>
+<!-- <br/>
+<br/> -->
 
 I'm master student of Computer Enginnering with a focus on Artificial Intelligence and Bioinformatics, and Research Assistant @ Sharif University of Technology.       
 
