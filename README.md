@@ -12,11 +12,8 @@ I'm master student of Computer Enginnering with a focus on Artificial Intelligen
   - Machine learning
   - Deep learning
   - Biomedical image analysis
-  - OOD generalization
-  - Machine learning Safety 
-  - Bioinformatics
-  - Reinforcement learning
-  - Robotics
+  - OOD generalization / Robustness
+  - Multi-modal Large Language Model
 
 My full resume is available in my personal webpage [amirezzati.com](https://amirezzati.com/)       
      
